@@ -2,10 +2,6 @@
 
 This is a practice project for building a sample portfolio using only HTML and CSS. It includes basic sections such as a welcome page, project listings, and a contact form.
 
-## Screenshot
-
-![Portfolio Screenshot](./screenshot.png)
-
 ## Features
 
 - Responsive layout
