@@ -2,6 +2,10 @@
 
 This is a practice project for building a sample portfolio using only HTML and CSS. It includes basic sections such as a welcome page, project listings, and a contact form.
 
+## Live Demo
+
+You can visit the live version of the application here: [HTML & CSS Portfolio Practice](https://monta-20.github.io/html-css-portfolio-practice/)
+
 ## Features
 
 - Responsive layout
