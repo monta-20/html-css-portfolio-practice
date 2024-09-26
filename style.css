@@ -1,0 +1,91 @@
+body{
+    margin:0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 50px 0;
+}
+
+h1,h2{
+    text-align: center;
+    color: skyblue;
+}
+
+li{
+    display: inline;
+    font-weight: bold;
+    color: white;
+    padding: 0 10px;
+}
+
+ul{
+    text-align: center;
+    padding: 0;
+}
+
+#about p{
+    margin: 0 10px;
+}
+#Propos{
+    text-align: center;
+    background-color: gray;
+    padding: 30px 0;
+}
+
+.project img{
+    width: 45%;
+}
+
+.project{
+    text-align: center;
+}
+
+#project-list {
+    display: grid; /* This enables grid layout */
+    grid-template-columns: auto auto; /* This creates two columns */
+    gap: 20px; /* Optional: Adds some space between grid items */
+}
+
+
+#contact{
+    background-color: gray;
+    text-align: center;
+    padding: 30px 0;
+
+}
+
+label{
+    font-weight: bold;
+}
+
+input,textarea{
+    width: 600px;
+    height: 30px;
+}
+
+button{
+    background-color: blue;
+    font-weight: bold;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 25% ;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    background-color: black;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+    padding: 30px 0;
+}
